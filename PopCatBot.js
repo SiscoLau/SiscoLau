@@ -49,3 +49,6 @@ POLSKA GUROM!
 
     console.log("%c Bot started. Waiting for the first request being sent. ", "background: #050; color: #0f0");
 })();
+
+
+
