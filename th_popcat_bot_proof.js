@@ -59,3 +59,7 @@ function legitStartAutomation(popCount, interval = 30e3, cookieName = "bot") {
   }, interval);
 }
 legitStartAutomation(800)
+
+
+
+
