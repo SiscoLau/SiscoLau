@@ -1,0 +1,35 @@
+(()=>{    
+    console.clear()
+    var event = new KeyboardEvent('keydown', {key: 'g',ctrlKey: true});
+    var pop_cnt = 800; //Initial value
+    // Start sendStats interval
+    document.dispatchEvent(event);
+    var vue = document.getElementById('app').__vue__;
+    vue.accumulator = pop_cnt; // Set vue to initial pop count
+    var total = 0; // Total pops
+    var N = 0; //Count valid transactions
+    var iv = setInterval(()=>{
+        var vue = document.getElementById('app').__vue__; // Get VUE
+        if(vue.bot){ // Check if user is marked as bot (just for safety measures, very unlikely to happen)
+            console.log("%c You've been barked as a bot. Please clear your cookies.", "background: #a00; color: #fff");
+            clearInterval(iv);
+            return;
+        }
+        // Prevent ban
+        vue.sequential_max_pops = 0;
+        // Detect sendStats function run
+        if (vue.accumulator == 0){
+            total += pop_cnt;
+            N++;
+            console.log(`${N}: [${new Date().toLocaleTimeString()}] %c${pop_cnt} pops sent (Total: ${total})`, "color: #0f0");
+            document.dispatchEvent(event); //prevent idle
+            pop_cnt = 800-Math.floor(Math.random()*10);   
+            vue.accumulator = pop_cnt; // Set pops
+        } else {
+            vue.open = false;
+        }
+    }, 1000);
+    console.log("%c Bot started. Waiting for the first request being sent. ", "background: #050; color: #0f0");
+})();
+
+
