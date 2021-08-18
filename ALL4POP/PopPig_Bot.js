@@ -5,3 +5,4 @@
 
 setInterval(function(){ clicked = 800; }, 5000);
 
+
