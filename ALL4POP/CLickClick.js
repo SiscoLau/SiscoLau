@@ -1,3 +1,4 @@
+ var appendee = `
   <div>
     <span>Per<input type='text' id='interval' maxlength=5 style="width: 6%;"> ms Click<input type='text' id='times' maxlength=4 style="width: 5%;"> ClickClick</span>
     <span><button id='start' onclick='start()'>Start</button></span>
