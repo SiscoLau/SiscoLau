@@ -1,4 +1,4 @@
-const interval = 9_800;     //9.8 seconds per request
+const interval = 5_000;     //5 seconds per request
 const clicksToSend = 2000;  //2000 is the maximum amount of clicks can be incremented per request, no point going higher
 
 console.clear();
