@@ -1,5 +1,5 @@
 var event = new KeyboardEvent('keydown', {
-	key: 'g',
+	key: 'a',
 	ctrlKey: true
 });
 
@@ -8,3 +8,4 @@ setInterval(function(){
 		document.dispatchEvent(event);
 	}
 }, 59);
+
