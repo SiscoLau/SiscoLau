@@ -4,9 +4,8 @@ var event = new KeyboardEvent('keydown', {
 });
 
 setInterval(function(){
-	for (i = 0; i < 9; i++) {
+	for (i = 0; i < 3; i++) {
 		document.dispatchEvent(event);
 	}
-}, 49);
-
+}, 89);
 
