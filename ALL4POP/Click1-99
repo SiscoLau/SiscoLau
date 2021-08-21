@@ -1,5 +1,5 @@
 var event = new KeyboardEvent('keydown', {
-	key: 'g',
+	key: 'a',
 	ctrlKey: true
 });
 
