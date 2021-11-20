@@ -106,5 +106,5 @@ http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-name="澳視體育" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a4/TDM_Logo.svg/1200px-TDM_Logo.svg.png" group-title="Sport",澳視體育
 http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F696%2F562%2Fpng-transparent-dmax-television-show-bivid-store-rtl-ii-others-television-angle-text.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-yillh&tbnid=J5Bd032ASQRPxM&vet=12ahUKEwiK3-m-mKf0AhWDUPUHHRXDBD4QMygBegUIARCpAQ..i&docid=sapobhGI1DsddM&w=920&h=450&q=dmax%20TV%20logo%20png&hl=en&ved=2ahUKEwiK3-m-mKf0AhWDUPUHHRXDBD4QMygBegUIARCpAQ" group-title="Sport",DMAX
+#EXTINF:-1 tvg-name="DMAX頻道" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F696%2F562%2Fpng-transparent-dmax-television-show-bivid-store-rtl-ii-others-television-angle-text.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-yillh&tbnid=J5Bd032ASQRPxM&vet=12ahUKEwiK3-m-mKf0AhWDUPUHHRXDBD4QMygBegUIARCpAQ..i&docid=sapobhGI1DsddM&w=920&h=450&q=dmax%20TV%20logo%20png&hl=en&ved=2ahUKEwiK3-m-mKf0AhWDUPUHHRXDBD4QMygBegUIARCpAQ" group-title="Sport",DMAX頻道
 https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/DMAX.m3u8
