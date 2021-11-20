@@ -1,3 +1,3 @@
 #EXTINF:0,DMAX頻道
 #EXTVLCOPT:network-caching=1000
-rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
+rtmp://45.88.148.178:1935/channel/60b4e50239e1b02e8b910d74
