@@ -113,8 +113,5 @@ http://pullhls3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH103/103
 #EXTINF:-1 tvg-name="DMAX頻道_FLV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/250px-DMAX_Logo_16_05_2011.jpg" group-title="Sport",DMAX頻道_FLV
 http://flv3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH103/103.flv
 
-#EXTINF:-1 tvg-name="DMAX頻道_RTMP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/250px-DMAX_Logo_16_05_2011.jpg" group-title="Sport",DMAX頻道_RTMP
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH103/103
-
-#EXTINF:-1 tvg-name="DMAX頻道_Sisco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/250px-DMAX_Logo_16_05_2011.jpg" group-title="Sport",DMAX頻道_Sisco
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/DMAX.m3u8
+#EXTINF:-1 tvg-name="美亞電影台"  tvg-logo="http://liveq.tv/liveq.tv/img/hk-%E7%BE%8E%E4%BA%9E%E9%9B%BB%E5%BD%B1%E5%8F%B0.jpg" group-title="電影台",美亞電影台
+http://iptv.tvfix.org/hls/mydy_v.m3u8
