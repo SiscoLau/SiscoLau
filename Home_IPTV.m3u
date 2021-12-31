@@ -106,6 +106,10 @@ http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-name="澳視體育" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a4/TDM_Logo.svg/1200px-TDM_Logo.svg.png" group-title="Sport",澳視體育
 http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 
+#EXTINF:-1 tvg-name="極速汽車頻道"  tvg-logo="https://www.itsfun.com.tw/cacheimg/af/f1/0541ff72356af4fb5b880844b171.jpg" group-title="Sport",極速汽車頻道
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvfix.org/hls/mydy_v.m3u8
+
 #EXTINF:-1 tvg-name="DMAX頻道_M3U8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/250px-DMAX_Logo_16_05_2011.jpg" group-title="Sport",DMAX頻道_M3U8
 #EXTVLCOPT:network-caching=1000
 http://pullhls3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH103/103/playlist.m3u8
