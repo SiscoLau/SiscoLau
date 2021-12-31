@@ -117,5 +117,17 @@ http://pullhls3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH103/103
 #EXTINF:-1 tvg-name="DMAX頻道_FLV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/250px-DMAX_Logo_16_05_2011.jpg" group-title="Sport",DMAX頻道_FLV
 http://flv3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH103/103.flv
 
+#EXTINF:-1 tvg-name="五星體育" tvg-logo="https://pic2.pedaily.cn/17/newseed/project/201712/20171214151211288.jpg" group-title="Sport",五星體育
+http://iptv.tvfix.org/hls/wxtyhd.m3u8
+
+#EXTINF:-1 tvg-name="勁爆體育" tvg-logo="http://www.tvniu.com/tvimg/img/jbty.jpg" group-title="Sport",勁爆體育
+http://iptv.tvfix.org/hls/jbtyhd.m3u
+
+#EXTINF:-1 tvg-name="足球頻道" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20184_3_7/a2jpc63946040174351.jpeg" group-title="Sport",足球頻道
+http://iptv.tvfix.org/hls/zqhd.m3u8
+
+#EXTINF:-1 tvg-name="Star Sports" tvg-logo="https://www.adgully.com/img/400/53330_star-sports.jpg" group-title="Sport",Star Sports
+http://iptv.tvfix.org/hls/starsports.m3u8
+
 #EXTINF:-1 tvg-name="美亞電影台"  tvg-logo="http://liveq.tv/liveq.tv/img/hk-%E7%BE%8E%E4%BA%9E%E9%9B%BB%E5%BD%B1%E5%8F%B0.jpg" group-title="電影台",美亞電影台
 http://iptv.tvfix.org/hls/mydy.m3u8
