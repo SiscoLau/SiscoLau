@@ -132,3 +132,10 @@ http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 tvg-name="美亞電影台"  tvg-logo="http://liveq.tv/liveq.tv/img/hk-%E7%BE%8E%E4%BA%9E%E9%9B%BB%E5%BD%B1%E5%8F%B0.jpg" group-title="電影台",美亞電影台
 #EXTVLCOPT:network-caching=5000
 http://iptv.tvfix.org/hls/mydy.m3u8
+
+
+#EXTINF:-1 group-title="香港頻道" tvg-name="Now直播台" tvg-logo="https://rb.gy/kshrvf" ,Now直播台
+http://livetv.dnsfor.me/channel.3.m3u8
+
+#EXTINF:-1 group-title="香港頻道" tvg-name="Now新聞台" tvg-logo="https://rb.gy/p0eiwo" ,Now新聞台
+http://livetv.dnsfor.me:80/channel.4.m3u8
