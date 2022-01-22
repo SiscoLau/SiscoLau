@@ -141,3 +141,12 @@ http://livetv.dnsfor.me/channel.3.m3u8
 
 #EXTINF:-1 group-title="香港頻道" tvg-name="Now新聞台" tvg-logo="https://rb.gy/p0eiwo" ,Now新聞台
 http://livetv.dnsfor.me:80/channel.4.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.fing.io/images/isp/HK/logo/hk_cable_tv_logo.png" group-title="香港頻道",有線新聞
+https://api.leonardpark.dev/live/icable/109
+
+#EXTINF:-1 tvg-logo="https://cdn.fing.io/images/isp/HK/logo/hk_cable_tv_logo.png" group-title="香港頻道",有線財經資訊
+https://api.leonardpark.dev/live/icable/108
+
+#EXTINF:-1 tvg-logo="https://cdn.fing.io/images/isp/HK/logo/hk_cable_tv_logo.png" group-title="香港頻道",有線直播新聞
+https://api.leonardpark.dev/live/icable/110
