@@ -112,17 +112,9 @@ http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_rphxrsyh_key370EFD9366ED83620352AC5D5987078F521A5F080550CB1C9603EF373626456910309D3498D6747A7A8CE756F3FC9B0CB2909D437B7663445A57779C9110FFBAF5B8BCA05337FA2F9B2A7581C0977BF601E68CDE7A846CA6C5676B880C79FD443636772F049DF1FCAA2707BA6D6C35DE_/live/jsqchd/4000000/d1.m3u8
 
-
-#EXTINF:-1 tvg-name="DMAX頻道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/250px-DMAX_Logo_16_05_2011.jpg" group-title="Sport",DMAX頻道
-#EXTVLCOPT:network-caching=1000
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="DMAX頻道_M3U8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/250px-DMAX_Logo_16_05_2011.jpg" group-title="Sport",DMAX頻道_M3U8
 #EXTVLCOPT:network-caching=1000
-http://pullhls3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH103/103/playlist.m3u8
-
-#EXTINF:-1 tvg-name="DMAX頻道_FLV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/250px-DMAX_Logo_16_05_2011.jpg" group-title="Sport",DMAX頻道_FLV
-http://flv3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH103/103.flv
+http://206.119.173.184/tv/js.php?id=123
 
 #EXTINF:-1 tvg-name="五星體育" tvg-logo="https://pic2.pedaily.cn/17/newseed/project/201712/20171214151211288.jpg" group-title="Sport",五星體育
 http://iptv.tvfix.org/hls/wxtyhd.m3u8
@@ -139,7 +131,6 @@ http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 tvg-name="美亞電影台"  tvg-logo="http://liveq.tv/liveq.tv/img/hk-%E7%BE%8E%E4%BA%9E%E9%9B%BB%E5%BD%B1%E5%8F%B0.jpg" group-title="電影台",美亞電影台
 #EXTVLCOPT:network-caching=5000
 http://iptv.tvfix.org/hls/mydy.m3u8
-
 
 #EXTINF:-1 group-title="香港頻道" tvg-name="Now直播台" tvg-logo="https://rb.gy/kshrvf" ,Now直播台
 http://livetv.dnsfor.me/channel.3.m3u8
