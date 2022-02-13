@@ -118,7 +118,7 @@ http://206.119.173.184/tv/js.php?id=123
 
 #EXTINF:-1 tvg-name="DMAX頻道FLV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/250px-DMAX_Logo_16_05_2011.jpg" group-title="Sport",DMAX頻道FLV
 #EXTVLCOPT:network-caching=1000
-http://v3948069e.live.126.net/live/fkfyknmt34667903/123.flv
+http://v3948069e.live.126.net/live/bmkpxvur36801999/123.flv
 
 
 #EXTINF:-1 tvg-name="五星體育" tvg-logo="https://pic2.pedaily.cn/17/newseed/project/201712/20171214151211288.jpg" group-title="Sport",五星體育
