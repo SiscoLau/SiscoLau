@@ -99,6 +99,9 @@ https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/Movie/%E7%9B%9C%E8%B3%8
 #EXTINF:-1 tvg-name="羅馬浴場2" tvg-logo="https://assets.wmoov.com/poster/5f9d9e3c2eabb79c0524a760c3a0a249_y.jpg" group-title="Movie",羅馬浴場2
 https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/Movie/%E7%BE%85%E9%A6%AC%E6%B5%B4%E5%A0%B42.m3u8
 
+#EXTINF:-1 tvg-name="最強囍事" tvg-logo="https://zh.wikipedia.org/wiki/%E6%9C%80%E5%BC%B7%E5%9B%8D%E4%BA%8B#/media/File:Zui_Qiang_Xi_Shi_poster_(Hong_Kong_Version).jpg" group-title="Movie",最強囍事
+https://cdn.zoubuting.com/20210717/VfrfL8uc/hls/index.m3u8
+
 #EXTINF:-1 tvg-name="Asian Street Food 24/7 Live" tvg-logo="https://i.ytimg.com/vi/YEYaHrDzsMc/hqdefault_live.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBU-MlRYKk-3YB9hdQ4U88WYTgtZw" group-title="YouTube",Asian Street Food 24/7 Live
 https://www.youtube.com/watch?v=YEYaHrDzsMc
 
