@@ -158,3 +158,50 @@ https://api.leonardpark.dev/live/icable/108
 
 #EXTINF:-1 tvg-logo="https://cdn.fing.io/images/isp/HK/logo/hk_cable_tv_logo.png" group-title="香港頻道",有線直播新聞
 https://api.leonardpark.dev/live/icable/110
+
+
+
+
+
+#EXTINF:-1 group-title="#__#",1
+http://ott3.alwaysdata.net/live/udp.php?id=1
+#EXTINF:-1 group-title="#__#",2
+http://ott3.alwaysdata.net/live/udp.php?id=2
+#EXTINF:-1 group-title="#__#",3
+http://ott3.alwaysdata.net/live/udp.php?id=3
+#EXTINF:-1 group-title="#__#",4
+http://ott3.alwaysdata.net/live/udp.php?id=4
+#EXTINF:-1 group-title="#__#",5
+http://ott3.alwaysdata.net/live/udp.php?id=5
+#EXTINF:-1 group-title="#__#",6
+http://ott3.alwaysdata.net/live/udp.php?id=6
+#EXTINF:-1 group-title="#__#",7
+http://ott3.alwaysdata.net/live/udp.php?id=7
+#EXTINF:-1 group-title="#__#",1
+http://212.102.48.142:8085/udp/236.3.1.11:1234
+#EXTINF:-1 group-title="#__#",2
+http://212.102.48.142:8085/udp/236.3.1.12:1234
+#EXTINF:-1 group-title="#__#",3
+http://212.102.48.142:8085/udp/236.3.1.13:1234
+#EXTINF:-1 group-title="#__#",4
+http://212.102.48.142:8085/udp/236.3.1.14:1234
+#EXTINF:-1 group-title="#__#",5
+http://212.102.48.142:8085/udp/236.3.1.15:1234
+#EXTINF:-1 group-title="#__#",6
+http://212.102.48.142:8085/udp/236.3.1.16:1234
+#EXTINF:-1 group-title="#__#",7
+http://212.102.48.142:8085/udp/236.3.1.17:1234
+#EXTINF:-1 group-title="#__#",Blue Hustler
+http://srv1.roshen.live/70s5oC8mvp/mpegts?token=qnNUnXdwRyvUqPLo
+#EXTINF:-1 group-title="#__#",Passionxxx
+http://jessicatv.site:8080/FM10020/4d136785/283040
+#EXTINF:-1 group-title="#__#",SuperOne
+http://185.96.176.139:8080/superone/index.m3u8
+#EXTINF:-1 group-title="#__#",SuperOne
+https://ujeb.se/hNN57X
+#EXTINF:-1 group-title="#__#",Extasy/LeoTV
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+#EXTINF:-1 group-title="#__#",Rouge TV
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1 group-title="#__#",IBizaHDTV
+https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
