@@ -159,3 +159,45 @@ https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-logo="https://cdn.fing.io/images/isp/HK/logo/hk_cable_tv_logo.png" group-title="香港頻道",有線直播新聞
 https://api.leonardpark.dev/live/icable/110
 
+
+#EXTM3U
+#EXTINF:-1 group-title="#__#",REDLIGHT HD
+http://109.200.130.123:7032/play/353
+#EXTINF:-1 group-title="#__#",VIVID RED
+http://109.200.130.123:7032/play/a00g
+#EXTINF:-1 group-title="#__#",VIVID RED
+http://pl1cdn.plusx.tv:8880/361/mono.m3u8?token=pirek23@gmail.comziomek222222
+#EXTINF:-1 group-title="#__#",HUSTLER HD
+http://pl1cdn.plusx.tv:8880/348/mono.m3u8?token=pirek23@gmail.comziomek222222
+#EXTINF:-1 group-title="#__#",REDLIGHT HD
+http://pl1cdn.plusx.tv:8880/358/mono.m3u8?token=pirek23@gmail.comziomek222222
+#EXTINF:-1 group-title="#__#",PENTHOUSE PASSION
+http://pl1cdn.plusx.tv:8880/352/mono.m3u8?token=pirek23@gmail.comziomek222222
+#EXTINF:-1 group-title="#__#",PENTHOUS GOLD
+http://pl1cdn.plusx.tv:8880/353/mono.m3u8?token=pirek23@gmail.comziomek222222
+#EXTINF:-1 group-title="#__#",XXL
+http://pl1cdn.plusx.tv:8880/363/mono.m3u8?token=pirek23@gmail.comziomek222222
+#EXTINF:-1 group-title="#__#",VIVID TOUCH
+http://pl1cdn.plusx.tv:8880/347/mono.m3u8?token=pirek23@gmail.comziomek222222
+#EXTINF:-1 group-title="#__#",VIVID TOUCH
+http://pl1cdn.plusx.tv:8880/354/mono.m3u8?token=pirek23@gmail.comziomek222222
+#EXTINF:-1 group-title="#__#",OLALA
+http://pl1cdn.plusx.tv:8880/350/mono.m3u8?token=pirek23@gmail.comziomek222222
+#EXTINF:-1 group-title="#__#",Venus
+http://168.232.168.242:8000/play/a0ex/index.m3u8
+#EXTINF:-1 group-title="#__#",Playboy TV
+http://168.232.168.242:8000/play/a0i9/index.m3u8
+#EXTINF:-1 group-title="#__#",Playboy TV
+http://168.232.168.242:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="#__#",Eroxxxhd
+http://94.229.250.73:8008/play/a002
+#EXTINF:-1 group-title="#__#",SuperOne
+http://185.96.176.139:8080/superone/index.m3u8
+#EXTINF:-1 group-title="#__#",SuperOne
+https://ujeb.se/hNN57X
+#EXTINF:-1 group-title="#__#",Extasy/LeoTV
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+#EXTINF:-1 group-title="#__#",Rouge TV
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1 group-title="#__#",IBizaHDTV
+https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
