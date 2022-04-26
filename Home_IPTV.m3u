@@ -159,8 +159,6 @@ https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-logo="https://cdn.fing.io/images/isp/HK/logo/hk_cable_tv_logo.png" group-title="香港頻道",有線直播新聞
 https://api.leonardpark.dev/live/icable/110
 
-
-#EXTM3U
 #EXTINF:-1 group-title="#__#",Redlight HD
 http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/242/index.m3u8
 #EXTINF:-1 group-title="#__#",Hustler HD
@@ -189,3 +187,57 @@ https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="#__#",XYPLUS
 http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
+
+#EXTINF:-1 group-title="欧美①,#genre#",Miami TV Jenny
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 group-title="欧美①,#genre#",Visit-X TV (720p)
+http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="欧美①,#genre#",A3 Bikini
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:-1 group-title="欧美①,#genre#",A3BIKINI 720p
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+#EXTINF:-1 group-title="欧美①,#genre#",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="欧美①,#genre#",Miami 720P
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 group-title="欧美①,#genre#",Miami Jenny
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 group-title="欧美①,#genre#",Miami México
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 group-title="欧美①,#genre#",Rouge TV (720p)
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1 group-title="日韩①,#genre#",HEYZO720P01
+https://videomy.yongaomy.com/20191223/80S2HH9G/index.m3u8
+#EXTINF:-1 group-title="日韩①,#genre#",HEYZO720P02
+https://videomy.yongaomy.com/20191223/msg5JABw/index.m3u8
+#EXTINF:-1 group-title="日韩①,#genre#",Heyzo328
+http://video1.rhsj520.com:8091/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="日韩①,#genre#",Heyzo337
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0431_full/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="日韩①,#genre#",hzgd-095
+http://video1.rhsj520.com:8091/nyrm3/zzmmx/hzgd-095/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="日韩①,#genre#",jmd-133
+http://video1.rhsj520.com:8091/nyrm3/zzmmx/jmd-133/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="日韩①,#genre#",JUX-837
+http://video1.rhsj520.com:8091/nyrm3/zzmmx/JUX-837/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="日韩①,#genre#",JUY-051
+http://video1.rhsj520.com:8091/nyrm3/zzmmx/JUY-051/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="日韩①,#genre#",JUY-125-C
+http://video1.rhsj520.com:8091/nyrm3/zzmmx/JUY-125-C/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="日韩①,#genre#",juy-726
+http://video1.rhsj520.com:8091/nyrm3/zzmmx/juy-726/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="日韩①,#genre#",MEYD-117
+http://video1.rhsj520.com:8091/nyrm3/zzmmx/MEYD-117/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="日韩①,#genre#",MEYD-147
+http://video1.rhsj520.com:8091/nyrm3/zzmmx/MEYD-147/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="日韩①,#genre#",PGD-880
+http://video1.rhsj520.com:8091/nyrm3/zzmmx/PGD-880/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="日韩①,#genre#",金柳妍床戏合
+https://156zy.suyunbo.tv/2018/07/12/A9LPd4bAWOPyuxok/playlist.m3u8
+#EXTINF:-1 group-title="日韩①,#genre#",新婚夫妇的性生活
+https://156zy.suyunbo.tv/2018/07/21/RiQKisSwjNi4r7Hb/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="日韩①,#genre#",妇科医生
+https://156zy.suyunbo.tv/2018/07/22/C6APNy9p6BWJYpoE/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="日韩①,#genre#",两对夫妻的情事
+https://156zy.suyunbo.tv/2018/07/21/ERc1jhgnYvZXt23Q/playlist.m3u8?checkedby:iptvcat.com
+
