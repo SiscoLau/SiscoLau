@@ -159,6 +159,9 @@ https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-logo="https://cdn.fing.io/images/isp/HK/logo/hk_cable_tv_logo.png" group-title="香港頻道",有線直播新聞
 https://api.leonardpark.dev/live/icable/110
 
+
+#EXTINF:-1 group-title="#__#",Evolved Fights
+http://ot7wlzct.ottclub.xyz/iptv/Z2BREQV5MLUKWU/6200/index.m3u8
 #EXTINF:-1 group-title="#__#",Redlight HD
 http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/242/index.m3u8
 #EXTINF:-1 group-title="#__#",Hustler HD
