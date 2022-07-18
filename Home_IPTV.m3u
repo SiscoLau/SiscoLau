@@ -160,36 +160,30 @@ https://api.leonardpark.dev/live/icable/108
 https://api.leonardpark.dev/live/icable/110
 
 
-#EXTINF:-1 group-title="#__#",Evolved Fights
-http://ot7wlzct.ottclub.xyz/iptv/Z2BREQV5MLUKWU/6200/index.m3u8
-#EXTINF:-1 group-title="#__#",Redlight HD
-http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/242/index.m3u8
-#EXTINF:-1 group-title="#__#",Hustler HD
-http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/244/index.m3u8
-#EXTINF:-1 group-title="#__#",Dorcel TV HD
-http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/245/index.m3u8
-#EXTINF:-1 group-title="#__#",Redlight HD
-http://109.200.130.123:7032/play/353
-#EXTINF:-1 group-title="#__#",Vivid Red HD
-http://109.200.130.123:7032/play/a00g
-#EXTINF:-1 group-title="#__#",Penthouse Gold
-http://80.24.75.92:5555/udp/239.111.4.1:1234
-#EXTINF:-1 group-title="#__#",Penthouse Quickies
-http://80.24.75.92:5555/udp/239.111.4.2:1234
-#EXTINF:-1 group-title="#__#",Redlight HD
-http://93.152.174.144:4000/play/privatetv1/index.m3u8
 #EXTINF:-1 group-title="#__#",Hustler HD
 http://193.33.240.8:80/hustler_hd/index.m3u8
-#EXTINF:-1 group-title="#__#",Extasy/LeoTV
-http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 #EXTINF:-1 group-title="#__#",Rouge TV
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 group-title="#__#",IBizaHDTV
 https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="#__#",IBizaHDTV
 https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="#__#",XYPLUS
-http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
+#EXTINF:-1 group-title="#__#",Penthouse Gold
+http://80.24.75.92:5555/udp/239.111.4.1:1234
+#EXTINF:-1 group-title="#__#",Penthouse Quickies
+http://80.24.75.92:5555/udp/239.111.4.2:1234
+#EXTINF:-1 group-title="#__#",Extasy/LeoTV
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+#EXTINF:-1 group-title="#__#",Rouge TV
+https://edge17.vedge.infomaniak.com/livecast/rougetv.stream/chunklist_w225872110.m3u8
+#EXTINF:-1 group-title="#__#",IBizaHDTV
+https://5ed5d165c218d.streamlock.net:441/free/Stream1/chunklist_w998998627.m3u8
+#EXTINF:-1 group-title="#__#",IBizaHDTV
+https://cdn1.ibizastream.biz:441/free/Stream1/chunklist_w1756279781.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="欧美①,#genre#",Miami TV Jenny
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
