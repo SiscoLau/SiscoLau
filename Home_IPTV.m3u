@@ -81,10 +81,14 @@ https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%9
 #EXTINF:-1 tvg-name="Reply 1988-27" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-27
 https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_27.m3u8
 
+
+#EXTINF:-1 tvg-name="空間改造王" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/03/28043516/309.jpg" group-title="空間改造王"
+https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E7%A9%BA%E9%96%93%E6%94%B9%E9%80%A0%E7%8E%8B.m3u8
+
 #EXTINF:-1 tvg-name="明月幾時有" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/Our_Time_Will_Come.jpg" group-title="Movie",明月幾時有
 https://m.anyplex.com/api/getm3u8.jsp;jsessionid=EB093EB39CC8D46BB21BE15C26AA1F97?programGuid=7dea47cd-156d-407d-8e3f-4baa1cb154cb&bitrate=middle&dserver=d1.anyplex.com
 
-#EXTINF:-1 tvg-name="八公犬物語" tvg-logo="https://sc02.alicdn.com/kf/H6afaf31b48284d939e3f3722efe97aedU.jpg" group-title="Movie",八公犬物語
+#EXTINF:-1 tvg-name="空間改造王" tvg-logo="https://" group-title="空間改造王"
 https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/Movie/%E5%85%AB%E5%85%AC%E7%8A%AC%E7%89%A9%E8%AA%9E.m3u8
 
 #EXTINF:-1 tvg-name="少年PI的奇幻漂流" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/cf/Life_of_Pi_Poster.jpg/220px-Life_of_Pi_Poster.jpg" group-title="Movie",少年PI的奇幻漂流
