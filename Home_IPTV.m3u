@@ -207,7 +207,7 @@ https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/DMAX.m3u8
 
 #EXTINF:-1 tvg-name="DMAX頻道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/250px-DMAX_Logo_16_05_2011.jpg" group-title="Sport",DMAX頻道
 #EXTVLCOPT:network-caching=1000
-http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
 
 #EXTINF:-1 tvg-name="DMAX頻道FLV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/250px-DMAX_Logo_16_05_2011.jpg" group-title="Sport",DMAX頻道FLV
 #EXTVLCOPT:network-caching=1000
