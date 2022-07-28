@@ -81,13 +81,6 @@ https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%9
 #EXTINF:-1 tvg-name="Reply 1988-27" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-27
 https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_27.m3u8
 
-
-#EXTINF:-1 tvg-name="空間改造王" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/03/28043516/309.jpg" group-title="空間改造王"
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E7%A9%BA%E9%96%93%E6%94%B9%E9%80%A0%E7%8E%8B.m3u8
-
-#EXTINF:-1 tvg-name="明月幾時有" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/Our_Time_Will_Come.jpg" group-title="Movie",明月幾時有
-https://m.anyplex.com/api/getm3u8.jsp;jsessionid=EB093EB39CC8D46BB21BE15C26AA1F97?programGuid=7dea47cd-156d-407d-8e3f-4baa1cb154cb&bitrate=middle&dserver=d1.anyplex.com
-
 #EXTINF:-1 tvg-name="空間改造王" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/03/28043516/309.jpg" group-title="空間改造王",空間改造王01
 https://d1r44591rc4b13.cloudfront.net/B005977_CV/CustomHLS/B005977_CV_1920x1080p_4Mbps_qvbr.m3u8
 
@@ -168,6 +161,13 @@ https://d1r44591rc4b13.cloudfront.net/B006716HI/CustomHLS/B006716HI_1920x1080p_4
 
 #EXTINF:-1 tvg-name="空間改造王" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/03/28043516/309.jpg" group-title="空間改造王",空間改造王28
 https://d1r44591rc4b13.cloudfront.net/B006717HI/CustomHLS/B006717HI_1920x1080p_4Mbps_qvbr.m3u8
+
+
+#EXTINF:-1 tvg-name="香港空間改造王" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/07/24114250/754-1024x576.jpg" group-title="香港空間改造王",香港空間改造王01
+https://d1r44591rc4b13.cloudfront.net/BW05061HI/CustomHLS/BW05061HI_1920x1080p_4香港空間改造王qv香港空間改造王01
+
+
+
 
 #EXTINF:-1 tvg-name="少年PI的奇幻漂流" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/cf/Life_of_Pi_Poster.jpg/220px-Life_of_Pi_Poster.jpg" group-title="Movie",少年PI的奇幻漂流
 https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/Movie/%E5%B0%91%E5%B9%B4PI%E7%9A%84%E5%A5%87%E5%B9%BB%E6%BC%82%E6%B5%81.m3u8
