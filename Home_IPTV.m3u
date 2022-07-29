@@ -108,6 +108,12 @@ https://d1r44591rc4b13.cloudfront.net/B006138HE/CustomHLS/B006138HE_1920x1080p_4
 #EXTINF:-1 tvg-name="清日電子李小姐" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/06/26052744/MissLee.jpg" group-title="清日電子李小姐",清日電子李小姐_09
 https://d1r44591rc4b13.cloudfront.net/B006139HE/CustomHLS/B006139HE_1920x1080p_4Mbps_qvbr.m3u8
 
+#EXTINF:-1 tvg-name="夏空" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/07/28134214/525.jpg" group-title="夏空",夏空_01
+https://d1r44591rc4b13.cloudfront.net/B004540HC/CustomHLS/B004540HC_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:-1 tvg-name="夏空" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/07/28134214/525.jpg" group-title="夏空",夏空_02
+https://d1r44591rc4b13.cloudfront.net/B004541HC/CustomHLS/B004541HC_1920x1080p_4Mbps_qvbr.m3u8
+
 #EXTINF:-1 tvg-name="香港空間改造王" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/07/24114250/754-1024x576.jpg" group-title="香港空間改造王",香港空間改造王01
 https://d1r44591rc4b13.cloudfront.net/BW05061HI/CustomHLS/BW05061HI_1920x1080p_4Mbps_qvbr.m3u8
 
