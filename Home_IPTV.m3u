@@ -1,92 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg" group-title=" TV ABERTA " pltv-subgroup="XXX SUBGRUPOXXX", SBT
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
-#EXTINF:-1 tvg-logo="http://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg" group-title=" TV ABERTA " pltv-subgroup="XXX SUBGRUPOXXX", gospel
-http://tv.tvalphanet.com.br:1935/tvpleno/tvpleno/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg" group-title=" TV ABERTA " pltv-subgroup="Aberta"
-
-#EXTINF:-1 tvg-name="Reply 1988-01" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-01
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_01.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-02" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-02
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_02.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-03" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-03
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_03.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-04" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-04
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_04.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-05" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-05
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_05.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-06" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-06
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_06.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-07" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-07
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_07.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-08" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-08
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_08.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-09" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-09
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_09.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-10" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-10
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_10.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-11" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-11
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_11.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-12" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-12
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_12.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-13" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-13
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_13.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-14" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-14
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_14.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-15" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-15
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_15.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-16" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-16
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_16.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-17" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-17
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_17.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-18" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-18
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_18.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-10" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-19
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_19.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-20" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-20
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_20.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-21" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-21
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_21.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-22" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-22
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_22.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-23" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-23
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_23.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-24" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-24
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_24.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-25" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-25
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_25.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-26" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-26
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_26.m3u8
-
-#EXTINF:-1 tvg-name="Reply 1988-27" tvg-logo="https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/Reply_1988.png" group-title="Reply 1988",Reply 1988-27
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/%E5%9B%9E%E7%AD%94%E5%90%A71988/%E5%9B%9E%E7%AD%94%E5%90%A71988_27.m3u8
-
 #EXTINF:-1 tvg-name="空間改造王" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/03/28043516/309.jpg" group-title="空間改造王",空間改造王01
 https://d1r44591rc4b13.cloudfront.net/B005977_CV/CustomHLS/B005977_CV_1920x1080p_4Mbps_qvbr.m3u8
 
@@ -168,22 +81,35 @@ https://d1r44591rc4b13.cloudfront.net/B006716HI/CustomHLS/B006716HI_1920x1080p_4
 #EXTINF:-1 tvg-name="空間改造王" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/03/28043516/309.jpg" group-title="空間改造王",空間改造王28
 https://d1r44591rc4b13.cloudfront.net/B006717HI/CustomHLS/B006717HI_1920x1080p_4Mbps_qvbr.m3u8
 
+#EXTINF:-1 tvg-name="清日電子李小姐" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/06/26052744/MissLee.jpg" group-title="清日電子李小姐",清日電子李小姐_01
+https://d1r44591rc4b13.cloudfront.net/B006131HE/CustomHLS/B006131HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:-1 tvg-name="清日電子李小姐" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/06/26052744/MissLee.jpg" group-title="清日電子李小姐",清日電子李小姐_02
+https://d1r44591rc4b13.cloudfront.net/B006132HE/CustomHLS/B006132HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:-1 tvg-name="清日電子李小姐" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/06/26052744/MissLee.jpg" group-title="清日電子李小姐",清日電子李小姐_03
+https://d1r44591rc4b13.cloudfront.net/B006133HA/CustomHLS/B006133HA_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:-1 tvg-name="清日電子李小姐" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/06/26052744/MissLee.jpg" group-title="清日電子李小姐",清日電子李小姐_04
+https://d1r44591rc4b13.cloudfront.net/B006134HE/CustomHLS/B006134HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:-1 tvg-name="清日電子李小姐" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/06/26052744/MissLee.jpg" group-title="清日電子李小姐",清日電子李小姐_05
+https://d1r44591rc4b13.cloudfront.net/B006135HE/CustomHLS/B006135HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:-1 tvg-name="清日電子李小姐" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/06/26052744/MissLee.jpg" group-title="清日電子李小姐",清日電子李小姐_06
+https://d1r44591rc4b13.cloudfront.net/B006136HE/CustomHLS/B006136HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:-1 tvg-name="清日電子李小姐" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/06/26052744/MissLee.jpg" group-title="清日電子李小姐",清日電子李小姐_07
+https://d1r44591rc4b13.cloudfront.net/B006137HE/CustomHLS/B006137HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:-1 tvg-name="清日電子李小姐" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/06/26052744/MissLee.jpg" group-title="清日電子李小姐",清日電子李小姐_08
+https://d1r44591rc4b13.cloudfront.net/B006138HE/CustomHLS/B006138HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:-1 tvg-name="清日電子李小姐" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/06/26052744/MissLee.jpg" group-title="清日電子李小姐",清日電子李小姐_09
+https://d1r44591rc4b13.cloudfront.net/B006139HE/CustomHLS/B006139HE_1920x1080p_4Mbps_qvbr.m3u8
 
 #EXTINF:-1 tvg-name="香港空間改造王" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/07/24114250/754-1024x576.jpg" group-title="香港空間改造王",香港空間改造王01
 https://d1r44591rc4b13.cloudfront.net/BW05061HI/CustomHLS/BW05061HI_1920x1080p_4Mbps_qvbr.m3u8
-
-
-#EXTINF:-1 tvg-name="少年PI的奇幻漂流" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/cf/Life_of_Pi_Poster.jpg/220px-Life_of_Pi_Poster.jpg" group-title="Movie",少年PI的奇幻漂流
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/Movie/%E5%B0%91%E5%B9%B4PI%E7%9A%84%E5%A5%87%E5%B9%BB%E6%BC%82%E6%B5%81.m3u8
-
-#EXTINF:-1 tvg-name="快遞驚魂" tvg-logo="https://pic.pimg.tw/natalie0609/1378805928-510698770.jpg" group-title="Movie",快遞驚魂
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/Movie/%E5%BF%AB%E9%81%9E%E9%A9%9A%E9%AD%82.m3u8
-
-#EXTINF:-1 tvg-name="盜賊門" tvg-logo="https://wmoov.com/assets/poster/477aa374164c40d7239c50108f92a26a_m.jpg" group-title="Movie",盜賊門
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/Movie/%E7%9B%9C%E8%B3%8A%E9%96%80.m3u8
-
-#EXTINF:-1 tvg-name="羅馬浴場2" tvg-logo="https://assets.wmoov.com/poster/5f9d9e3c2eabb79c0524a760c3a0a249_y.jpg" group-title="Movie",羅馬浴場2
-https://raw.githubusercontent.com/SiscoLau/SiscoLau/main/Movie/%E7%BE%85%E9%A6%AC%E6%B5%B4%E5%A0%B42.m3u8
 
 #EXTINF:-1 tvg-name="最強囍事" tvg-logo="https://zh.wikipedia.org/wiki/%E6%9C%80%E5%BC%B7%E5%9B%8D%E4%BA%8B#/media/File:Zui_Qiang_Xi_Shi_poster_(Hong_Kong_Version).jpg" group-title="Movie",最強囍事
 https://cdn.zoubuting.com/20210717/VfrfL8uc/hls/index.m3u8
