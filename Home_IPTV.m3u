@@ -186,6 +186,10 @@ http://192.168.1.232:8082
 http://192.168.1.232:8083
 #EXTINF:-1 group-title="18AV",Tested Streams
 http://nrei4rl2.russtv.net:80/iptv/TPPSW2ZKN339VV/6170/index.m3u8
+#EXTINF:-1 group-title="18AV",SexyHot
+http://195.181.168.196:2222/exotica/index.m3u8
+
+
 
 #EXTINF:-1 group-title="#__#",Hustler HD
 http://193.33.240.8:80/hustler_hd/index.m3u8
