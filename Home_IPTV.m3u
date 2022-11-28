@@ -147,11 +147,11 @@ http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE312235203122352
 
 #EXTINF:-1 tvg-name="FIFA World Cup 720" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/012/251/870/small/2022-fifa-world-cup-in-qatar-football-match-logo-vector.jpg" group-title="Sport",FIFA World Cup 720
 #EXTVLCOPT:network-caching=1000
-http://192.168.1.245:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://192.168.1.192:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 #EXTINF:-1 tvg-name="FIFA World Cup 1080" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/012/251/870/small/2022-fifa-world-cup-in-qatar-football-match-logo-vector.jpg" group-title="Sport",FIFA World Cup 1080
 #EXTVLCOPT:network-caching=1000
-http://192.168.1.245:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+http://192.168.1.192:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 #EXTINF:-1 tvg-name="Fox506" tvg-logo="https://media.info/i/lf/0/1489225082/6553.png" group-title="Sport",Fox506
 #EXTVLCOPT:network-caching=1000
