@@ -153,7 +153,7 @@ http://192.168.1.192:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80
 #EXTVLCOPT:network-caching=1000
 http://192.168.1.192:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
-#EXTINF:-1 tvg-name="Sky Sport F1 [DE]" tvg-logo="https://ia601807.us.archive.org/20/items/SkySportsF1New_201708/sky%20sports%20f1%20new.png" group-title="Sky Sport F1 [DE]
+#EXTINF:-1 tvg-name="Sky Sport F1 [DE]" tvg-logo="https://ia601807.us.archive.org/20/items/SkySportsF1New_201708/sky%20sports%20f1%20new.png" group-title="Sport",Sky Sport F1 [DE]
 #EXTVLCOPT:network-caching=1000
 http://192.168.1.192:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
