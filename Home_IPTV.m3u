@@ -176,6 +176,9 @@ https://s2.streamia.xyz:8443/streamia/fox506/chunks.m3u8?nimblesessionid=3175882
 #EXTINF:-1 tvg-name="五星體育" tvg-logo="https://pic2.pedaily.cn/17/newseed/project/201712/20171214151211288.jpg" group-title="Sport",五星體育
 http://iptv.tvfix.org/hls/wxtyhd.m3u8
 
+#EXTINF:-1 tvg-name="Now HK Now Sports 4K" tvg-logo="https://scontent-hkg4-1.xx.fbcdn.net/v/t1.6435-1/96527741_3034084436626789_7679554400313933824_n.png?stp=cp0_dst-png_p80x80&_nc_cat=1&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=KyGTF_bTu-oAX_XiAm0&_nc_ht=scontent-hkg4-1.xx&oh=00_AfAi23RkXXxB28tLuHEnTgjQGC8i_UHS3ir4bxQjcpY4wg&oe=6451115A" group-title="Sport",Now HK Now Sports 4K
+https://list.iptvcat.com/my_list/s/1d769da09c883afcf42e6dc0d3d239a2.m3u8
+
 #EXTINF:-1 tvg-name="勁爆體育" tvg-logo="http://www.tvniu.com/tvimg/img/jbty.jpg" group-title="Sport",勁爆體育
 http://iptv.tvfix.org/hls/jbtyhd.m3u8
 
