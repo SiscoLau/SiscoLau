@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:0 tvg-name="ttlcl_CCTV" tvg-logo="https://cctvwiki.com/wp-content/uploads/2020/07/logo_cctvwiki.png" group-title="ttlcl_CCTV",CCTV01
-http://192.168.1.221:8081
+http://192.168.1.221:8090/video.mjpg?oid=1&size=1920x1080&maintainAR=true&backColor=0,0,0
 
 #EXTINF:-1 tvg-name="CCTV" tvg-logo="https://cctvwiki.com/wp-content/uploads/2020/07/logo_cctvwiki.png" group-title="ttlcl_CCTV",CCTV02
-http://192.168.1.221:8082
+http://192.168.1.221:8090/video.mjpg?oid=2&size=1920x1080&maintainAR=true&backColor=0,0,0
 
 #EXTINF:-1 tvg-name="CCTV" tvg-logo="https://cctvwiki.com/wp-content/uploads/2020/07/logo_cctvwiki.png" group-title="ttlcl_CCTV",CCTV03
-http://192.168.1.221:8083
+http://192.168.1.221:8090/video.mjpg?oid=3&size=1920x1080&maintainAR=true&backColor=0,0,0
 
 #EXTINF:-1 tvg-name="CCTV" tvg-logo="https://cctvwiki.com/wp-content/uploads/2020/07/logo_cctvwiki.png" group-title="ttlcl_CCTV",CCTV04
-http://192.168.1.221:8084
+http://192.168.1.221:8090/video.mjpg?oid=4&size=1920x1080&maintainAR=true&backColor=0,0,0
 
 #EXTINF:-1 tvg-name="CCTV" tvg-logo="https://cctvwiki.com/wp-content/uploads/2020/07/logo_cctvwiki.png" group-title="ttlcl_CCTV",CCTV05
-http://192.168.1.221:8085
+http://192.168.1.221:8090/video.mjpg?oid=5&size=1920x1080&maintainAR=true&backColor=0,0,0
 
 #EXTINF:-1 tvg-name="CCTV" tvg-logo="https://cctvwiki.com/wp-content/uploads/2020/07/logo_cctvwiki.png" group-title="ttlcl_CCTV",CCTV06
-http://192.168.1.221:8086
+http://192.168.1.221:8090/video.mjpg?oid=6&size=1920x1080&maintainAR=true&backColor=0,0,0
 
 #EXTINF:-1 tvg-name="空間改造王" tvg-logo="https://opentv-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2022/03/28043516/309.jpg" group-title="空間改造王",空間改造王01
 https://d1r44591rc4b13.cloudfront.net/B005977_CV/CustomHLS/B005977_CV_1920x1080p_4Mbps_qvbr.m3u8
