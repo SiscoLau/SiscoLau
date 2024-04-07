@@ -36,10 +36,10 @@ https://vod.hoy.tv/B008344HE/HOYTVHLS/B008344HE_1920x1080p_4Mbps_qvbr.m3u8
 https://vod.hoy.tv/B008345HE/HOYTVHLS/B008345HE_1920x1080p_4Mbps_qvbr.m3u8
 
 #EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底12
-https://vod.hoy.tv/B008356HE/HOYHLS/B008356HE_1920x1080p_4Mbps_qvbr.m3u8
+https://vod.hoy.tv/B008346HE/HOYTVHLS/B008346HE_1920x1080p_4Mbps_qvbr.m3u8
 
 #EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底13
-https://vod.hoy.tv/B008357HE/HOYHLS/B008357HE_1920x1080p_4Mbps_qvbr.m3u8
+https://vod.hoy.tv/B008347HE/HOYTVHLS/B008347HE_1920x1080p_4Mbps_qvbr.m3u8
 
 #EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底14
 https://vod.hoy.tv/B008348HE/HOYTVHLS/B008348HE_1920x1080p_4Mbps_qvbr.m3u8
@@ -54,7 +54,7 @@ https://vod.hoy.tv/B008350HE/HOYTVHLS/B008350HE_1920x1080p_4Mbps_qvbr.m3u8
 https://vod.hoy.tv/B008351HE/HOYTVHLS/B008351HE_1920x1080p_4Mbps_qvbr.m3u8
 
 #EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底18
-https://vod.hoy.tv/B008355HE/HOYHLS/B008355HE_1920x1080p_4Mbps_qvbr.m3u8
+https://vod.hoy.tv/B008352HE/HOYTVHLS/B008352HE_1920x1080p_4Mbps_qvbr.m3u8
 
 #EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底19
 https://vod.hoy.tv/B008353HE/HOYTVHLS/B008353HE_1920x1080p_4Mbps_qvbr.m3u8
@@ -85,8 +85,6 @@ https://vod.hoy.tv/B008361HE/HOYHLS/B008361HE_1920x1080p_4Mbps_qvbr.m3u8
 
 #EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底28
 https://vod.hoy.tv/B008362HE/HOYHLS/B008362HE_1920x1080p_4Mbps_qvbr.m3u8
-
-
 
 #EXTINF:0 tvg-name="ttlcl_CCTV" tvg-logo="https://cctvwiki.com/wp-content/uploads/2020/07/logo_cctvwiki.png" group-title="ttlcl_CCTV",CCTV01
 http://192.168.1.221:8081
