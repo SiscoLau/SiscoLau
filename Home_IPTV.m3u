@@ -1,5 +1,51 @@
 #EXTM3U
 
+#EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底01
+https://vod.hoy.tv/B008335HE/HOYTVHLS/B008335HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底02
+https://vod.hoy.tv/B008336HE/HOYTVHLS/B008336HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底03
+https://vod.hoy.tv/B008337HE/HOYTVHLS/B008337HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底04
+https://vod.hoy.tv/B008338HE/HOYTVHLS/B008338HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底05
+https://vod.hoy.tv/B008339HE/HOYTVHLS/B008339HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底06
+https://vod.hoy.tv/B008340HE/HOYTVHLS/B008340HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底07
+https://vod.hoy.tv/B008341HE/HOYTVHLS/B008341HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底08
+https://vod.hoy.tv/B008342HE/HOYTVHLS/B008342HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底09
+https://vod.hoy.tv/B008343HE/HOYTVHLS/B008343HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底10
+https://vod.hoy.tv/B008344HE/HOYTVHLS/B008344HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底11
+https://vod.hoy.tv/B008345HE/HOYTVHLS/B008345HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底12
+https://vod.hoy.tv/B008346HE/HOYTVHLS/B008346HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底13
+https://vod.hoy.tv/B008347HE/HOYTVHLS/B008347HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底14
+https://vod.hoy.tv/B008348HE/HOYTVHLS/B008348HE_1920x1080p_4Mbps_qvbr.m3u8
+
+#EXTINF:0 tvg-name="臥底" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e6/Under_Cover_%282021_TV_series%29.jpg" group-title="臥底",臥底15
+https://vod.hoy.tv/B008349HE/HOYTVHLS/B008349HE_1920x1080p_4Mbps_qvbr.m3u8
+
+
 #EXTINF:0 tvg-name="ttlcl_CCTV" tvg-logo="https://cctvwiki.com/wp-content/uploads/2020/07/logo_cctvwiki.png" group-title="ttlcl_CCTV",CCTV01
 http://192.168.1.221:8081
 
