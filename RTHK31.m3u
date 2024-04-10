@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg" group-title="RTHK32",RTHK32
+
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
